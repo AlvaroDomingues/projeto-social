@@ -36,3 +36,13 @@ main{
   width: 267px;
   
 }
+#redes{
+  text-align: right;
+}
+#redes img{
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  box-shadow: 3px 2px 5px black;
+}
